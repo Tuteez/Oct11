@@ -1,2 +1,0 @@
-Implement functionality:	
--	In the project folder, add a new file named ”kkkkk".
